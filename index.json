@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-19T06:43:57Z",
+  "updated_at": "2026-08-19T07:07:04Z",
   "scripts": [
     {
       "id": "codex-context-used-meter",
@@ -245,8 +245,8 @@
     {
       "id": "chatgpt-message-navigator",
       "name": "ChatGPT Message Navigator",
-      "description": "为 Codex Desktop 的 ChatGPT 模式增加类似 Codex 的长对话消息导航条，支持提问跳转、悬停摘要、阅读位置高亮和自动更新。",
-      "version": "1.0.0",
+      "description": "为 Codex Desktop 的 ChatGPT 模式增加类似 Codex 的长对话消息导航条，支持完整历史面板、滚轮浏览、拖动滚动条、提问跳转和阅读位置高亮。",
+      "version": "1.1.0",
       "author": "Takizzl",
       "tags": [
         "chatgpt",
@@ -257,7 +257,7 @@
       ],
       "homepage": "https://github.com/Takizzl/chatgpt-message-navigator",
       "script_url": "https://raw.githubusercontent.com/BigPizzaV3/CodexPlusPlusScriptMarket/main/scripts/chatgpt-message-navigator.js",
-      "sha256": "d039b75770cfd52f9608d5120b569cbbd8ce9acc1e4ceb5ba33da02a6f01a5c0"
+      "sha256": "6a199af613d2bc44141a9bf9646cf96f486ed564413a1a99b3cfb9e6cf2a228e"
     }
   ]
 }
