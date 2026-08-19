@@ -245,8 +245,8 @@
     {
       "id": "chatgpt-message-navigator",
       "name": "ChatGPT Message Navigator",
-      "description": "为 Codex Desktop 的 ChatGPT 模式增加长对话消息导航，支持完整历史面板、可见滑轨、滚轮切换、拖动跳转，并修复切换聊天后回弹到最早历史的问题。",
-      "version": "1.1.4",
+      "description": "为 Codex Desktop 的 ChatGPT 模式增加完整用户提问导航：短线点击跳转、悬停预览、滚轮选取，不显示回答、不干扰正文滚动。",
+      "version": "1.1.11",
       "author": "Takizzl",
       "tags": [
         "chatgpt",
@@ -257,7 +257,7 @@
       ],
       "homepage": "https://github.com/Takizzl/chatgpt-message-navigator",
       "script_url": "https://raw.githubusercontent.com/BigPizzaV3/CodexPlusPlusScriptMarket/main/scripts/chatgpt-message-navigator.js",
-      "sha256": "4be947fb03db871ee09c45e37c8b9977ab540b0e34970ddf5b29c005fa0c44c4"
+      "sha256": "574f355344ec6dd448401cbb4687f2976dbcd9c780f7f12135ae3da7219fc7e4"
     }
   ]
 }
